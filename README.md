@@ -29,4 +29,4 @@
 ## 6. После
 - Короткий отчёт со скриншотами: что сделано, что осталось, где есть риски.
 
-По сайтам пишите: Kwork, Roman_Val.
+По сайтам пишите: [Kwork](https://kwork.ru/user/roman_val) или [Telegram](https://t.me/garden_sm).
